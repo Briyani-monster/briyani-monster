@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briyani-monster
 - 👀 I’m interested in Learning basic to Advance of programming and Web Development
-- 🌱 I’m currently learning Data Structure and Algorithms
+- 🌱 I’m currently learning Data Structure and Algorithms and Web Development.
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me gsashishemail@gmail.com
 
