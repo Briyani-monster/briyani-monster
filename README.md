@@ -20,6 +20,7 @@
 
 - ⚡ Fun fact **I like Biryani very much**
 - refer my [mental model](https://github.com/GSAshish)
+- refer my [gits](https://gist.github.com/Briyani-monster)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/briyani-monster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="briyani-monster" height="30" width="40" /></a>
